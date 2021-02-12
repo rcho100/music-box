@@ -72,3 +72,12 @@ body {
   padding: 10px;
   margin: 0 20px;
 }
+
+.btn-big {
+  color: #cdc2d0;
+  font-size: 30px;
+}
+
+.btn:focus {
+  outline: 0;
+}
